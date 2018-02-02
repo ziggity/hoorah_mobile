@@ -21,6 +21,7 @@
 .leftside > img{
 	position: absolute!important;
     max-width: 696px;
+    color: #ffffff
 }
 .contact-form{
 	position: absolute;

@@ -1,14 +1,9 @@
-/*
- Theme Name: GARAGE
- Author: Web Domus ITALIA
- Author URI: http://www.webdomus.net/
- Description: GARAGE a multi-purpose HTML5 template built with latest Bootstrap framework. It offers flexible solutions, responsive, well documented and comes packed with tons of feature and options which they can be easily customized! It is a perfect solution for all kinds of businesses from small businesses to startups and bloggers.
- Version: 1.0.0
- License:  GARAGE template is under Creative Commons Attribution 4.0 International License.
- Template: GARAGE
- */
 
 
+
+body{
+	background-color: #022156;
+}
 .allcontain{
 	max-width: 1366px;
 	margin-left: auto;
@@ -151,7 +146,7 @@ padding-left: 5%;
   #navbarontop > li > a {
   	font-family: 'BebasNeue Regular';
   	font-size: 17px;
-  	color: #313943;
+  	color: #ffffff;
     padding-top: 5px;
     padding-bottom: 6px;
     margin-bottom: 22px;
@@ -175,7 +170,7 @@ padding-left: 5%;
  	font-family: 'BebasNeue Regular';
  	margin-left: 60px;
   	font-size: 16.99px;
-  	color: #313943;
+  	color: #ffffff;
   	padding-left: 19px;
   	padding-right: 19px;
   	padding-top: -2px;
@@ -735,7 +730,7 @@ font-weight: bold;
 	font-size: 41px;
 	padding-top: 46px;
 	padding-bottom: 50px;
-	color: #020243;
+	color: #ffffff;
 }
 
 .carstxt{
@@ -801,7 +796,7 @@ font-weight: bold;
 	height: auto;
 	border: 1px solid #C59E47;
 	margin-top: 7%;
- 
+	color: #f7f4f4
 	margin-right: auto;
 	margin-left: auto;
  
@@ -810,7 +805,7 @@ font-weight: bold;
 	font-family: "OpenSans Regular";
 	font-size: 19.8px;
 	text-align: center;
-	color: #5B5B5B;
+	color: #f7f4f4;
 	margin-top:14%;
 	margin-bottom: 8px;
 
@@ -1033,7 +1028,8 @@ margin-left: auto;
 	letter-spacing: 10px;
 	padding-top: 66px;
 	padding-bottom: 70px;
-	color: #020243;
+	color: #f7f4f4;
+	
 }
 .sortby{
 	font-family: "OpenSans Regular";
@@ -1102,6 +1098,7 @@ margin-left: auto;
 	padding-top: 20px;
 	margin-top: 0px;
 	padding-bottom: 40px;
+	color: #ffffff
 }	
 .latest-navleft{
 	padding-bottom: 0px;
@@ -1128,6 +1125,7 @@ font-weight: bold;
 .latestcars{
 	text-align: center;
 	padding-bottom: 20px;
+	color: #ffffff
 }
 #hideonmobile{
 	visibility: hidden;
@@ -1284,6 +1282,7 @@ padding-left: 0px;
 	margin-left: 8.1%;
 	margin-bottom: 7%;
 	z-index: 99;
+	color: #ffffff
 }
 @font-face{
   font-family: "OpenSans Bold";
@@ -1298,6 +1297,7 @@ padding-left: 0px;
 	letter-spacing: 8px;
 	z-index: 100;
 	margin: 0px;
+	color: #f7f4f4;
 }
 .leftside>p{
 	position: absolute;
@@ -1307,6 +1307,7 @@ padding-left: 0px;
 	font-size: 20px;
 	z-index: 100;
 	width: 35%;
+	color: #f7f4f4;
 }
 .rightside{
 	position: absolute;
